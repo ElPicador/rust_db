@@ -1,0 +1,6 @@
+[package]
+name = "rust_db"
+version = "0.1.0"
+authors = ["Rémy-Christophe Schermesser <git@schermesser.com>"]
+
+[dependencies]

@@ -1,0 +1,4 @@
+[root]
+name = "rust_db"
+version = "0.1.0"
+
